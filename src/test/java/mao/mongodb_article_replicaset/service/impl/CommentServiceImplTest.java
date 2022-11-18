@@ -1,6 +1,7 @@
 package mao.mongodb_article_replicaset.service.impl;
 
-import mao.mongodb_article.service.CommentService;
+
+import mao.mongodb_article_replicaset.service.CommentService;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
