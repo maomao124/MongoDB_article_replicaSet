@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mao.mongodb_article_replicaset.service.impl.CommentServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s - in mao.mongodb_article_replicaset.service.impl.CommentServiceImplTest
